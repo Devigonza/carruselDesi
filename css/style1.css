@@ -20,18 +20,13 @@
     color: gray;
 }
 
-#carru
+#resultado
 {
-    filter: brightness(60%);
-  
+    background-color: rgb(206, 239, 255);
 }
 
-#ooter
-{
-    color: white !important;
-}
 
-.footer
-{
-    color: white !important;
-}
+
+
+
+
